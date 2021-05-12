@@ -1,4 +1,4 @@
-class Shellcheck < Formula
+class ShellcheckAT072 < Formula
   desc "Static analysis and lint tool, for (ba)sh scripts"
   homepage "https://www.shellcheck.net/"
   url "https://github.com/koalaman/shellcheck/archive/v0.7.2.tar.gz"
